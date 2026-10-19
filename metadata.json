@@ -1,0 +1,6 @@
+{
+  "name": "FF Voice Prank",
+  "description": "Free Fire gaming voice changer, viral soundboard, and in-game floating overlay prank player",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FF Voice Prank</string>
+    <string name="tagline">Free Fire Gaming Soundboard &amp; Voice Changer</string>
+    <string name="floating_overlay_title">Free Fire Floating Soundboard</string>
+    <string name="tab_soundboard">Soundboard</string>
+    <string name="tab_voice_changer">Voice Changer</string>
+    <string name="tab_floating_setup">Floating Window</string>
+    <string name="tab_audio_lab">Audio Lab</string>
+    <string name="floating_service_started">Floating soundboard is running over games</string>
+    <string name="enable_overlay_permission">Enable Draw Over Other Apps</string>
+    <string name="record_permission_required">Microphone permission required for custom voice recording</string>
+    <string name="picchi_sound">Picchi Sound (বাচ্চা)</string>
+    <string name="cid_dialogue">C.I.D. ডায়লগ</string>
+    <string name="dipjol_dialogue">ডিপজল বাজু</string>
+    <string name="taheri_dialogue">তাহেরী - বলব কি</string>
+    <string name="salyara_song">Salyara TT Song</string>
+    <string name="ff_headshot">FF Headshot (মাথা ফাটা)</string>
+    <string name="ff_booyah">Booyah! (বুয়াহ জয়)</string>
+    <string name="girl_voice_prank">Gamer Girl (মেয়ে কন্ঠ)</string>
+    <string name="alien_voice">Alien / Alien FX</string>
+    <string name="robot_voice">Cyber Robot</string>
+    <string name="monster_voice">Demon / Monster</string>
+</resources>
